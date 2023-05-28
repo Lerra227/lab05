@@ -1,3 +1,0 @@
-/home/lera/lab05/build/CMakeFiles/banking.dir
-/home/lera/lab05/build/CMakeFiles/edit_cache.dir
-/home/lera/lab05/build/CMakeFiles/rebuild_cache.dir
