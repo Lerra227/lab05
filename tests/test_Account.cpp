@@ -1,4 +1,4 @@
-jjj#include <Account.h>
+#include <Account.h>
 #include <gtest/gtest.h>
 #include <gmock/gmock.h>
 
